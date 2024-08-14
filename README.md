@@ -1,2 +1,2 @@
-# landing_page
- 
+# landing
+ tjis a landing page using by javascript
